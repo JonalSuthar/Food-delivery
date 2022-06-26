@@ -1,0 +1,39 @@
+img{
+    border-radius: 5px !important;
+}
+.col-md-3{
+    margin: 30px;
+}
+p{
+    font-weight: bold;
+    font-size: 18px;
+}
+#navbar{
+    background-color: black;
+}
+li{
+    color: white;
+    list-style-type: none;
+    display: inline;
+    margin-left: 30px !important;
+}
+#nav-elements{
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+}
+#nav-elements :hover{
+    color: rgb(195, 168, 168);
+}
+#title{
+    font-size: 30px;
+    color: red;
+    padding: 10px !important;
+}
+.footer{
+    text-align: center;
+    color: white;
+    font-size: small !important;
+    background-color: black;
+    padding: 10px;
+}
